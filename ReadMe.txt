@@ -1,3 +1,5 @@
+ONLINE EXAMINATION EVALUATION ---
+
 ALGORITHM :
 
 Step 1: Assign current httpcontext to a variable.
@@ -55,7 +57,7 @@ ONLINE EXAMINATION SYSTEM FEATURES :
 8.Log out after the over.
 9.Users can send the suggestions and feedbacks from the home page , it can be viewed by admin.
 What makes our online exam system web project differs from others :
-Low internet connection would be sufficient to load the pages, since we haven’t used any picture data(using pictures the user with low internet connection takes time to load the images). In other online exam system websites , we can find only one admin who is surely responsible for the addition or deletion of the test, but we made this site any number of authorized persons can add/remove the examinations and these all authorized persons and users of this site will be controlled by the admin. It could be very helpful for educational institues acting as :
+Low internet connection would be sufficient to load the pages, since we havenâ€™t used any picture data(using pictures the user with low internet connection takes time to load the images). In other online exam system websites , we can find only one admin who is surely responsible for the addition or deletion of the test, but we made this site any number of authorized persons can add/remove the examinations and these all authorized persons and users of this site will be controlled by the admin. It could be very helpful for educational institues acting as :
 	Admin(headdash.php) --- director of institute
 	Teacher(dash.php) --- professors of college
 	User(acccount.php) --- students of the college
