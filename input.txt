@@ -1,0 +1,50 @@
+Which Framework Is Deliver Event To Custom Object? EASY
+Described Anr? MEDIUM
+How To Avoid An Anr? MEDIUM
+How The Mobile Applications Scoped And Specified? HARD
+Which Information Do You Need Before You Begin Coding An Android App For A Client? HARD
+How To Respond To State Transitions On Your App? EASY
+When We Say That An App Is In Active State? MEDIUM
+Described Scenarios When An Application Goes Into Inactive State? EASY
+Tell Me When An App Is Said To Be In Not Running State? MEDIUM
+How An Operating System Improve Battery Life While Running An App? HARD
+When Running In Foreground Than In Background Why An App On Ios Device Behaves Differently? EASY
+Which Api Is Used To Write Test Scripts? MEDIUM
+Tell Me The Name Of That Application Thread From Where Uikit Classes Should Be Used? HARD
+Which Framework Is Used To Construct Application's User Interface For Ios? HARD
+Which Tools Required To Develop Ios Applications? EASY
+Tell Me Which Json Framework Is Supported By Ios? MEDIUM
+Tell Me Does Ios Support Multitasking? MEDIUM
+Where Test Apple Iphone Apps If Don't Have The Device? HARD
+Which Data Types Does Aidl Support? MEDIUM
+Explain Folder, File & Description Of Android Apps? HARD
+What Is Aidl? EASY
+Described App Widgets? EASY
+Which You Like Better, Ice Cream Sandwich Or Kitkat? HARD
+Described Containers? EASY
+Which Items Or Folders Are Important In Every Android Project? HARD
+How Android Allows You To Store Data? EASY
+Which Any Other Advice You Have For The App Developer? HARD
+What Is Manifest File And How We Used? MEDIUM
+What Is First Element In Androidmanifest File, Right After The Encoding Declaration? HARD
+What Are The Advance Features Of Android Os? EASY
+What Is Intent? EASY
+Described Tech Challenges? EASY
+What Is Different About The Mobile App Development? MEDIUM
+How To Port Applications To Multiple Platforms? HARD
+Which Special Skills And Roles Are Required? MEDIUM
+Which Languages Are The Mobile Apps Programmed In? HARD
+Define Avd? EASY
+How To Start Another Activity? EASY
+Define Android Application Content Providers Components? MEDIUM
+What Are Activities? EASY
+Define Android Application Services Components? MEDIUM
+Define Android Application Broadcast Receivers Components? HARD
+Define Android Application Activities Components? HARD
+Which Are The Advantages Of Android? MEDIUM
+Which Language Need To Know To Develop Android Apps? HARD
+Which Tools Required For Developing Android Apps? HARD
+What Are The Features Of Android Os? MEDIUM
+Who Are The Inventors Of Android? HARD
+What Is Android Mobile? EASY
+What Is Meaning Of Android? EASY
