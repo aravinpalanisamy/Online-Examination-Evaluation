@@ -9,10 +9,11 @@ Step 4: Foreach file in Data Stream Provider get the filename.
 Step 5: Trim the present in filename.
 Step 6: Now combine the server path and filename into a path using Path.Combine(serverpath,filename).
 Step 7: Move file to required path when uploaded.
-Step 8: End for Step 9: Declare a model "question details" consisting the question number and difficulty of the question as properties.
+Step 8: End for 
+Step 9: Declare a model "question details" consisting the question number and difficulty of the question as properties.
 Step 10: Get the data present in file into StreamReader.
-Step 12: Now read the text line by line until it reaches end of page.
-Step 11: initialize question number to 0 
+Step 11: Now read the text line by line until it reaches end of page.
+Step 12: initialize question number to 0 
 Step 13: Search for ? in the line and once it was recognized split line into 2 words and assign it to string
 Step 14: Increment the question number always until ? is identified.
 Step 15: Now assign the question number and second word(string[1]) in the array to the question details object that was initialized.
